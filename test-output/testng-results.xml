@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1002" started-at="2018-04-03T07:24:43Z" finished-at="2018-04-03T07:24:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1002" started-at="2018-04-03T07:24:43Z" finished-at="2018-04-03T07:24:44Z">
+      <class name="com.Testcases.Tc_02_VerifyLoginFields">
+        <test-method status="PASS" signature="verifyLoginFields()[pri:0, instance:com.Testcases.Tc_02_VerifyLoginFields@7e5afaa6]" name="verifyLoginFields" duration-ms="984" started-at="2018-04-03T12:54:43Z" finished-at="2018-04-03T12:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFields -->
+      </class> <!-- com.Testcases.Tc_02_VerifyLoginFields -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
